@@ -1,32 +1,14 @@
 <div align="center">
 
-<table width="100%" style="border:none;border-collapse:separate;border-spacing:0;">
-  <tr>
-    <td align="center" style="background:linear-gradient(135deg,#010306 0%,#0a2a4a 55%,#0d4f8a 100%);border:1px solid #1f3a5f;border-radius:18px;padding:40px 28px;">
-      <div style="font-size:38px;font-weight:800;color:#ffffff;letter-spacing:1.5px;line-height:1.2;">
-        <span style="color:#0091ff;">&#9670;</span>&nbsp;Tengri Qaghan
-      </div>
-      <div style="height:1px;width:64px;background:linear-gradient(90deg,transparent,#0091ff,transparent);margin:14px auto;"></div>
-      <div style="font-size:15px;color:#cdd9e6;font-weight:600;">独立开发者 · 私人影视播放器「Tengri Desk · 腾格里汗」作者</div>
-      <div style="margin-top:8px;font-size:13.5px;color:#8aa3ba;">把本地视频、网盘、家庭媒体库和直播电视，聚合进一个媲美商业 App 的界面。</div>
-      <div style="margin-top:26px;">
-        <table style="border-collapse:separate;border-spacing:10px 0;margin:0 auto;border:none;">
-          <tr>
-            <td align="center" style="background:#0091ff;border-radius:9px;padding:10px 22px;">
-              <a href="https://65tiankehan.github.io/tengriqaghan/" style="color:#ffffff;text-decoration:none;font-weight:700;font-size:14px;">&#127760; 官网</a>
-            </td>
-            <td align="center" style="background:#16365c;border:1px solid #2a5a8a;border-radius:9px;padding:10px 22px;">
-              <a href="https://github.com/65tiankehan/tengriqaghan-releases/releases/latest" style="color:#9fd0ff;text-decoration:none;font-weight:700;font-size:14px;">&#11015;&#65039; 下载最新版</a>
-            </td>
-            <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:9px;padding:10px 22px;">
-              <a href="https://github.com/65tiankehan" style="color:#e6edf3;text-decoration:none;font-weight:700;font-size:14px;">GitHub &#65515;</a>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="./banner.svg" alt="Tengri Qaghan" width="100%" />
+
+<p>
+<a href="https://65tiankehan.github.io/tengriqaghan/"><b>🌐 官网</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/65tiankehan/tengriqaghan-releases/releases/latest"><b>⬇️ 下载最新版</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/65tiankehan"><b>GitHub ↗</b></a>
+</p>
 
 </div>
 
