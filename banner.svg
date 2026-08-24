@@ -1,0 +1,95 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#01030a"/>
+      <stop offset="0.55" stop-color="#061529"/>
+      <stop offset="1" stop-color="#0a2340"/>
+    </linearGradient>
+    <radialGradient id="glowR" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0091ff" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#0091ff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0091ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#23b8ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#23b8ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="diamondFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e2a4a"/>
+      <stop offset="1" stop-color="#061529"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#bfe2ff"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <!-- 光晕 -->
+  <circle cx="1080" cy="70" r="260" fill="url(#glowR)"/>
+  <circle cx="1200" cy="280" r="180" fill="url(#glowB)"/>
+  <circle cx="120" cy="300" r="150" fill="url(#glowB)" opacity="0.5"/>
+
+  <!-- 细网格装饰（极淡） -->
+  <g stroke="#1d4a78" stroke-width="1" opacity="0.18">
+    <line x1="0" y1="80" x2="1280" y2="80"/>
+    <line x1="0" y1="240" x2="1280" y2="240"/>
+  </g>
+
+  <!-- 星点 -->
+  <g fill="#ffffff">
+    <circle cx="980" cy="50" r="1.6" opacity="0.85"/>
+    <circle cx="1040" cy="120" r="1.1" opacity="0.55"/>
+    <circle cx="1150" cy="180" r="1.8" opacity="0.7"/>
+    <circle cx="900" cy="200" r="1" opacity="0.45"/>
+    <circle cx="1200" cy="40" r="1.2" opacity="0.6"/>
+    <circle cx="240" cy="60" r="1.2" opacity="0.5"/>
+    <circle cx="340" cy="40" r="0.9" opacity="0.4"/>
+  </g>
+
+  <!-- 左侧 Logo Mark：双层菱形 + 播放三角 -->
+  <g transform="translate(120,160)">
+    <g filter="url(#strongGlow)">
+      <rect x="-58" y="-58" width="116" height="116" rx="22" transform="rotate(45)" fill="none" stroke="#0091ff" stroke-width="2" opacity="0.55"/>
+    </g>
+    <g filter="url(#softGlow)">
+      <rect x="-44" y="-44" width="88" height="88" rx="18" transform="rotate(45)" fill="url(#diamondFill)" stroke="#4db5ff" stroke-width="1.6"/>
+    </g>
+    <polygon points="-13,-18 18,0 -13,18" fill="#ffffff"/>
+    <polygon points="-13,-18 18,0 -13,18" fill="none" stroke="#bfe2ff" stroke-width="1" opacity="0.6"/>
+  </g>
+
+  <!-- 主标题 -->
+  <text x="214" y="150" font-size="58" font-weight="800" fill="url(#titleGrad)" letter-spacing="2.5">Tengri Qaghan</text>
+
+  <!-- 蓝色装饰短线 -->
+  <rect x="216" y="166" width="56" height="4" rx="2" fill="#0091ff" filter="url(#softGlow)"/>
+
+  <!-- 副标题 -->
+  <text x="216" y="204" font-size="21" font-weight="600" fill="#c7d9ec">
+    独立开发者 · 私人影视播放器「Tengri Desk · 腾格里汗」作者
+  </text>
+
+  <!-- 描述 -->
+  <text x="216" y="236" font-size="15.5" fill="#6e89a3">
+    把本地视频、网盘、家庭媒体库和直播电视，聚合进一个媲美商业 App 的界面。
+  </text>
+
+  <!-- 右下标识 -->
+  <text x="1240" y="300" text-anchor="end" font-size="13" fill="#3e5a76" letter-spacing="0.5">
+    65tiankehan  ·  github.io/tengriqaghan
+  </text>
+
+  <!-- 顶部高光线 -->
+  <rect x="0" y="0" width="1280" height="2" fill="#0091ff" opacity="0.25"/>
+</svg>
