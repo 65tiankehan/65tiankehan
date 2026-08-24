@@ -1,34 +1,17 @@
 <div align="center">
 
-<!-- 顶部光晕标题 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010306,50:0a2a4a,100:0091ff&height=180&section=header&text=Tengri%20Qaghan&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=65tiankehan&descSize=18&descColor=cfd8e3&animation=fadeIn" width="100%" alt="Tengri Qaghan" />
+<h1>🎬 Tengri Qaghan</h1>
 
-<!-- 动态打字机 -->
-<a href="https://github.com/65tiankehan">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=26&duration=2800&pause=900&color=0091FF&center=true&vCenter=true&width=620&lines=%F0%9F%8E%AC+Tengri+Desk+%E5%BC%80%E5%8F%91%E8%80%85;%E2%9A%A1+Electron+%C2%B7+React+%C2%B7+TypeScript;%F0%9F%9B%A0%EF%B8%8F+%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%9F%B3%E5%AE%A2%E5%8E%85;%F0%9F%94%92+%E9%9A%90%E7%A7%81%E4%BC%98%E5%85%88%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%BD%92%E4%BD%A0" alt="Typing SVG" />
-</a>
+<p>
+  <a href="https://65tiankehan.github.io/tengriqaghan/"><img src="https://img.shields.io/badge/官网-65tiankehan.github.io-0091ff?style=for-the-badge" alt="website" /></a>
+  <a href="https://github.com/65tiankehan/tengriqaghan-releases/releases/latest"><img src="https://img.shields.io/github/v/release/65tiankehan/tengriqaghan-releases?style=for-the-badge&label=⬇️%20下载最新版&color=0091ff" alt="release" /></a>
+  <a href="https://github.com/65tiankehan"><img src="https://img.shields.io/github/followers/65tiankehan?style=for-the-badge&logo=github&label=关注&color=181717" alt="followers" /></a>
+</p>
 
-<br/>
-
-<samp>
-独立开发者 · 私人影视播放器「<b>Tengri Desk · 腾格里汗</b>」作者<br/>
-把本地视频、网盘、家庭媒体库和直播电视，聚合进一个媲美商业 App 的界面。
-</samp>
-
-<br/><br/>
-
-<!-- 社交 / 联系 -->
-<a href="https://github.com/65tiankehan">
-  <img src="https://img.shields.io/badge/GitHub-65tiankehan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://65tiankehan.github.io/tengriqaghan/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90-%E5%AE%98%E7%BD%91-0091ff?style=for-the-badge" alt="Website" />
-</a>
-<a href="https://github.com/65tiankehan/tengriqaghan-releases/releases/latest">
-  <img src="https://img.shields.io/github/v/release/65tiankehan/tengriqaghan-releases?style=for-the-badge&label=%E2%AC%87%EF%B8%8F%20%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&color=0091ff" alt="Release" />
-</a>
-
-<br/><br/>
+<p>
+  <b>独立开发者</b> · 私人影视播放器「<b>Tengri Desk · 腾格里汗</b>」作者<br/>
+  把本地视频、网盘、家庭媒体库和直播电视，聚合进一个媲美商业 App 的界面。
+</p>
 
 </div>
 
@@ -51,44 +34,98 @@
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=ffd53e" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-443236?style=flat-square" />
+<img src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/i18next-26a69a?style=flat-square&logo=i18next&logoColor=white" />
-<img src="https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Real--ESRGAN-AI%20%E8%B6%85%E5%88%86-7b3ff?style=flat-square" />
-<img src="https://img.shields.io/badge/DeepFilterNet3-%E9%99%8D%E5%99%AA-9146ff?style=flat-square" />
-<img src="https://img.shields.io/badge/whisper.cpp-%E5%AD%97%E5%B9%95-000?style=flat-square" />
+<img src="https://img.shields.io/badge/Real--ESRGAN-AI%20超分-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/DeepFilterNet3-降噪-9146ff?style=flat-square" />
+<img src="https://img.shields.io/badge/whisper.cpp-字幕-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-<img src="https://img.shields.io/badge/Jellyfin%20%2F%20Plex%20%2F%20Emby-%E5%AA%92%E4%BD%93%E5%BA%93-aa5cc3?style=flat-square&logo=jellyfin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jellyfin%20%2F%20Plex%20%2F%20Emby-媒体库-aa5cc3?style=flat-square&logo=jellyfin&logoColor=white" />
 
 </div>
 
-### 🚀 主力项目
+---
 
-<div align="center">
+### 🚀 公开项目
 
-<a href="https://github.com/65tiankehan/tengriqaghan-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=65tiankehan&repo=tengriqaghan-Code&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=0091ff&text_color=c9d1d9" alt="Tengri Desk Code" />
-</a>
+<details open>
+<summary><b>🎞️ Tengri Desk · 腾格里汗 — 你的影视，归你自己管</b></summary>
 
-</div>
+<br/>
 
-> **Tengri Desk · 腾格里汗** — 你的影视，归你自己管。
-> 聚合本地 / WebDAV / Jellyfin / Plex / IPTV，跨源搜索、离线下载、AI 画质增强、续播同步，隐私优先。
-> [🌐 官网](https://65tiankehan.github.io/tengriqaghan/) · [📥 下载](https://github.com/65tiankehan/tengriqaghan-releases/releases/latest) · [📖 Wiki](https://github.com/65tiankehan/tengriqaghan-Opendata/wiki)
+一款 Windows 私人影视播放器：聚合本地 / WebDAV / Jellyfin / Plex / Emby / IPTV，跨源搜索、离线下载、AI 画质增强、续播同步，隐私优先。产品主仓库为私有，以下为公开配套仓库：
+
+<table>
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/65tiankehan/tengriqaghan"><b>tengriqaghan</b></a><br/>
+    <sub>官网 / 落地页</sub><br/>
+    <img src="https://img.shields.io/github/stars/65tiankehan/tengriqaghan?style=social" />
+    <img src="https://img.shields.io/github/last-commit/65tiankehan/tengriqaghan" />
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/65tiankehan/tengriqaghan-releases"><b>tengriqaghan-releases</b></a><br/>
+    <sub>发布版本 / 自动更新</sub><br/>
+    <img src="https://img.shields.io/github/v/release/65tiankehan/tengriqaghan-releases?label=version" />
+    <img src="https://img.shields.io/github/downloads/65tiankehan/tengriqaghan-releases/total?color=0091ff" />
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/65tiankehan/tengriqaghan-Opendata"><b>tengriqaghan-Opendata</b></a><br/>
+    <sub>公开数据 · 新手指南 Wiki</sub><br/>
+    <img src="https://img.shields.io/github/last-commit/65tiankehan/tengriqaghan-Opendata" />
+    <img src="https://img.shields.io/github/repo-size/65tiankehan/tengriqaghan-Opendata" />
+  </td>
+  <td align="center">
+    <a href="https://github.com/65tiankehan/tengriqaServer-Case"><b>tengriqaServer-Case</b></a><br/>
+    <sub>片源服务器对接示例 (TypeScript)</sub><br/>
+    <img src="https://img.shields.io/github/last-commit/65tiankehan/tengriqaServer-Case" />
+    <img src="https://img.shields.io/github/repo-size/65tiankehan/tengriqaServer-Case" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>💬 其他项目（点击展开）</b></summary>
+
+<br/>
+
+- **[box-im](https://github.com/65tiankehan/box-im)** — 仿微信 IM：Spring Boot + Netty 后端、Vue Web 端、UniApp 移动端，支持私聊 / 群聊 / 离线消息 / 图片文件 / 语音 / 视频。<img src="https://img.shields.io/github/last-commit/65tiankehan/box-im" align="right" />
+- **[GlobalTV-Public](https://github.com/65tiankehan/GlobalTV-Public)** — 公开发布版本。<img src="https://img.shields.io/github/stars/65tiankehan/GlobalTV-Public?style=social" align="right" />
+- **[iletter](https://github.com/65tiankehan/iletter)** — 邮件相关项目（JavaScript）。<img src="https://img.shields.io/github/last-commit/65tiankehan/iletter" align="right" />
+- **[MiniRun / 校园跑腿](https://github.com/65tiankehan/MiniRun)** — 校园跑腿小程序，帮师生解决日常琐事、任务接单与互助。<img src="https://img.shields.io/github/last-commit/65tiankehan/MiniRun" align="right" />
+- **[localIM](https://github.com/65tiankehan/localIM)** — Node 局域网文字聊天（服务器 + 客户端）。<img src="https://img.shields.io/github/last-commit/65tiankehan/localIM" align="right" />
+
+</details>
+
+---
 
 ### 📊 GitHub 数据
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=65tiankehan&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=0091ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=65tiankehan&layout=compact&theme=react&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/65tiankehan?tab=repositories">
+  <img height="28" src="https://img.shields.io/badge/公开仓库-24-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<a href="https://github.com/65tiankehan?tab=followers">
+  <img height="28" src="https://img.shields.io/github/followers/65tiankehan?style=for-the-badge&logo=github&label=Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/65tiankehan/GlobalTV-Public/stargazers">
+  <img height="28" src="https://img.shields.io/github/stars/65tiankehan/GlobalTV-Public?style=for-the-badge&logo=github&label=Total%20Stars" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=65tiankehan&bg_color=0d1117&color=0091ff&line=58a6ff&point=0091ff&area=true&hide_border=true&theme=react-dark" width="92%" alt="Activity Graph" />
+<i>完整贡献活动与语言统计见</i> <a href="https://github.com/65tiankehan"><b>个人主页</b></a>
 
 </div>
 
@@ -106,5 +143,3 @@
 <img src="https://komarev.com/ghpvc/?username=65tiankehan&style=flat-square&color=0091ff&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091ff,50:0a2a4a,100:010306&height=120&section=footer" width="100%" alt="footer" />
